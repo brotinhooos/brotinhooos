@@ -22,5 +22,11 @@
 > [CLASS]: INFO4V | RK
 > [SPECIALIZATION]: Digital Art & Python Architecture
 > [LOCATION]: Cyber-Space
+```
 
-![Snake Animation](https://raw.githubusercontent.com/brotinhooos/brotinhooos/output/github-contribution-grid-snake-dark.svg)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/brotinhooos/brotinhooos/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+
