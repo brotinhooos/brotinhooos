@@ -1,21 +1,29 @@
-# 💫 About Me:
-INFO4V<br>RK<br>Artist<br>Python <br>
+<div align="center">
 
+  <!-- Typewriter Header Banner -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9D4EDD&center=true&vcenter=true&width=500&lines=System.init(%22INFO4V%22);&nbsp;RK+%7C+Artist+%7C+Python+Dev;Welcome+to+my+Cyber-Space%F0%9F%9B%B8" alt="Typing SVG" />
+  </a>
 
-## 🌐 Socials:
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Brotinhoos) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Akami.bo) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Brotinhoos) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Brotinhoos) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Brotinhootaku) 
+  <br/><br/>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=brotinhooos&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=brotinhooos&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=brotinhooos&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  <!-- Futuristic Badges Status -->
+  <img src="https://img.shields.io/badge/Status-Online-%2300DFD8?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Artist_%26_Developer-%237928CA?style=for-the-badge&logoColor=white" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  <br/><br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=brotinhooos&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+  <!-- Glowing Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+</div>
+
+<br/>
+
+## 🔮 ABOUT ME
+```system
+> [CLASS]: INFO4V | RK
+> [SPECIALIZATION]: Digital Art & Python Architecture
+> [LOCATION]: Cyber-Space
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
