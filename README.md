@@ -30,15 +30,4 @@
 </p>
 
 
-<div align="center">
 
-  ## ⚔️ FEATURED PROJECTS
-
-  <a href="https://github.com/brotinhooos/projeto-biblio">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=brotinhooos&repo=projeto-biblio&theme=tokyonight&border_color=00DFD8&bg_color=0D1117&title_color=00DFD8&icon_color=7928CA" width="48%" />
-  </a>
-  <a href="https://github.com/brotinhooos/PDS--LISTA-DETALHE">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=brotinhooos&repo=PDS--LISTA-DETALHE&theme=tokyonight&border_color=00DFD8&bg_color=0D1117&title_color=00DFD8&icon_color=7928CA" width="48%" />
-  </a>
-
-</div>
